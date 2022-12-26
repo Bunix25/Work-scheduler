@@ -19,7 +19,7 @@ Link: https://bunix25.github.io/Work-scheduler/
 
 When you click on the link, you should see a webpage similar to the one below.  
 
-![Workday Scheduler Homepage](![Alt text](screen.png))
+[Workday Scheduler Homepage](![Alt text](screen.png))
 
 
 If you see this page, you're good to go!
