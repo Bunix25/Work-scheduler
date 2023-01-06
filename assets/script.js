@@ -60,8 +60,6 @@ function timeCorrection(timeIn) {
 
 timeBlocks[0];
 
-//Colour change
-
 function getTime() {
     var current = new Date();
     return current.getHours();
