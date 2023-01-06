@@ -1,14 +1,11 @@
-//create variables
 var saveBtn=document.getElementById("saveBtn");
 var timeBlocks = [];
 var currentDate;
 var currentDate;
 
-//displays date in header
 displayCurrentDate();
 
 timeBlocks = document.getElementsByClassName("time-block");
-//console.log(timeBlocks[0].dataset.hour);
 
 function displayCurrentDate(){
     //fetch current date from api
