@@ -8,9 +8,7 @@ displayCurrentDate();
 timeBlocks = document.getElementsByClassName("time-block");
 
 function displayCurrentDate(){
-    //fetch current date from api
     currentDate = moment().format("dddd, MMMM Do YYYY");
-    //display current date
     document.getElementById("currentDay").innerHTML = currentDate;
 }
 
